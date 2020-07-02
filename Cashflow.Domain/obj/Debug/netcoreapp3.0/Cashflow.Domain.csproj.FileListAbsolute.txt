@@ -1,0 +1,8 @@
+C:\Users\EnsarMešković\source\repos\Cashflow\Cashflow.Domain\bin\Debug\netcoreapp3.0\Cashflow.Domain.deps.json
+C:\Users\EnsarMešković\source\repos\Cashflow\Cashflow.Domain\bin\Debug\netcoreapp3.0\Cashflow.Domain.dll
+C:\Users\EnsarMešković\source\repos\Cashflow\Cashflow.Domain\bin\Debug\netcoreapp3.0\Cashflow.Domain.pdb
+C:\Users\EnsarMešković\source\repos\Cashflow\Cashflow.Domain\obj\Debug\netcoreapp3.0\Cashflow.Domain.AssemblyInfoInputs.cache
+C:\Users\EnsarMešković\source\repos\Cashflow\Cashflow.Domain\obj\Debug\netcoreapp3.0\Cashflow.Domain.AssemblyInfo.cs
+C:\Users\EnsarMešković\source\repos\Cashflow\Cashflow.Domain\obj\Debug\netcoreapp3.0\Cashflow.Domain.dll
+C:\Users\EnsarMešković\source\repos\Cashflow\Cashflow.Domain\obj\Debug\netcoreapp3.0\Cashflow.Domain.pdb
+C:\Users\EnsarMešković\source\repos\Cashflow\Cashflow.Domain\obj\Debug\netcoreapp3.0\Cashflow.Domain.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\EnsarMešković\source\repos\Cashflow\Cashflow.Common\bin\Debug\netcoreapp3.0\Cashflow.Common.deps.json
+C:\Users\EnsarMešković\source\repos\Cashflow\Cashflow.Common\bin\Debug\netcoreapp3.0\Cashflow.Common.dll
+C:\Users\EnsarMešković\source\repos\Cashflow\Cashflow.Common\obj\Debug\netcoreapp3.0\Cashflow.Common.csprojAssemblyReference.cache
+C:\Users\EnsarMešković\source\repos\Cashflow\Cashflow.Common\obj\Debug\netcoreapp3.0\Cashflow.Common.AssemblyInfoInputs.cache
+C:\Users\EnsarMešković\source\repos\Cashflow\Cashflow.Common\obj\Debug\netcoreapp3.0\Cashflow.Common.AssemblyInfo.cs
+C:\Users\EnsarMešković\source\repos\Cashflow\Cashflow.Common\bin\Debug\netcoreapp3.0\Cashflow.Core.dll
+C:\Users\EnsarMešković\source\repos\Cashflow\Cashflow.Common\bin\Debug\netcoreapp3.0\Cashflow.Common.pdb
+C:\Users\EnsarMešković\source\repos\Cashflow\Cashflow.Common\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\EnsarMešković\source\repos\Cashflow\Cashflow.Common\bin\Debug\netcoreapp3.0\Cashflow.Core.pdb
+C:\Users\EnsarMešković\source\repos\Cashflow\Cashflow.Common\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\EnsarMešković\source\repos\Cashflow\Cashflow.Common\obj\Debug\netcoreapp3.0\Cashflow.Common.csproj.CopyComplete
+C:\Users\EnsarMešković\source\repos\Cashflow\Cashflow.Common\obj\Debug\netcoreapp3.0\Cashflow.Common.dll
+C:\Users\EnsarMešković\source\repos\Cashflow\Cashflow.Common\obj\Debug\netcoreapp3.0\Cashflow.Common.pdb

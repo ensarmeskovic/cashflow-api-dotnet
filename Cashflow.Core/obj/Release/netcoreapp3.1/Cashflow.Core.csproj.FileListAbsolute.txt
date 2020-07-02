@@ -1,0 +1,8 @@
+C:\Users\EnsarMešković\source\repos\Cashflow\Cashflow.Core\bin\Release\netcoreapp3.1\Cashflow.Core.deps.json
+C:\Users\EnsarMešković\source\repos\Cashflow\Cashflow.Core\bin\Release\netcoreapp3.1\Cashflow.Core.dll
+C:\Users\EnsarMešković\source\repos\Cashflow\Cashflow.Core\bin\Release\netcoreapp3.1\Cashflow.Core.pdb
+C:\Users\EnsarMešković\source\repos\Cashflow\Cashflow.Core\obj\Release\netcoreapp3.1\Cashflow.Core.csprojAssemblyReference.cache
+C:\Users\EnsarMešković\source\repos\Cashflow\Cashflow.Core\obj\Release\netcoreapp3.1\Cashflow.Core.AssemblyInfoInputs.cache
+C:\Users\EnsarMešković\source\repos\Cashflow\Cashflow.Core\obj\Release\netcoreapp3.1\Cashflow.Core.AssemblyInfo.cs
+C:\Users\EnsarMešković\source\repos\Cashflow\Cashflow.Core\obj\Release\netcoreapp3.1\Cashflow.Core.dll
+C:\Users\EnsarMešković\source\repos\Cashflow\Cashflow.Core\obj\Release\netcoreapp3.1\Cashflow.Core.pdb
